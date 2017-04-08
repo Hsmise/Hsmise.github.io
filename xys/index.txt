@@ -1,0 +1,18 @@
+国内比较大的开源框架:amazeUI
+
+http://www.bootcss.com/
+
+head头部可以添加
+	<!--[if lt IE9]>
+		/*IE9以下用到的代码或者样式*/
+	<![endif]-->
+
+bootstrap
+	首先bootstrap.css
+	需要用class="container"把内容包含起来
+	声明一行使用class="row"
+	一行里面有12列，有四种class表示不同屏幕分辨率下显示不同的样式
+	col-xs-  超小屏幕（手机）<768px
+	col-sm-  平板			 >=768px
+	col-md-  中等屏幕		 >=992px
+	col-lg-  大屏幕			 >=1200px
