@@ -1,0 +1,99 @@
+header{
+	background: #f9f9f9;
+	width: 100%;
+	height:0.9375rem;
+	border-top:1px #dedee0 solid;
+	border-bottom:1px #dedee0 solid;
+	padding:0 0.3125rem;
+	text-align:center;
+	line-height:0.9375rem;
+}
+
+header h2{
+	display:inline;
+	width:100%;
+	font-size:0.4062rem;
+	line-height:0.7188rem;
+	vertical-align:middle;
+}
+
+header a{
+	font-size:0.4062rem;
+	line-height:0.7188rem;
+	float:left;
+}
+
+body{
+	background: #f3f5f7;
+}
+
+.input1 input{
+	outline:none;
+	margin-top:0.4688rem;
+	margin-left:0.3125rem;
+	border:0;
+	font-size:0.4062rem;
+	line-height:0.2688rem;
+	padding:0.2688rem 0.3125rem;
+}
+
+.input1 p img{
+	display:block;
+	width:1.875rem;
+	height:0.9375rem;
+}
+
+.input1 p{
+	top:62px;
+	right:20px;
+	position:fixed;
+}
+
+.input1 input:nth-child(1){
+	width:86%;
+	
+	display:block;
+}
+
+.input1 input:nth-child(2){
+	width:60%;
+	display:inline;
+}
+
+
+
+.input1 span{
+	background: #ccc;
+	color:#f7f7f7;
+	padding:0.2688rem;
+	line-height:0.4688rem;
+}
+
+.input2 input{
+	width:86%;
+	outline:none;
+	margin:0.4688rem 0 0 0.3125rem;
+	border:0;
+	font-size:0.4062rem;
+	line-height:0.2688rem;
+	padding:0.2688rem 0.3125rem;
+}
+
+button{
+	border:0;
+	outline:none;
+	width: 90%;
+	height:0.9375rem;
+	margin:0.4688rem 0 0 0.3125rem; 
+}
+
+.user{
+	margin:0.4688rem 0 0 0.3125rem;
+}
+
+
+.user a{
+	color:#000;
+	font-size:0.3125rem;
+}
+	
